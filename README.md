@@ -1,0 +1,2 @@
+# Interview Preparation / Resume(Analyzer and Generator)
+ Made a full stack gen AI web development project using React,Node,JWT,Gemini,MongoDB where user will upload its resume along with job description to which they are targeting and then they will get the whole 5 day preparation statergy with all the skill gaps along with technical and behavioural questions for the interview and the user can also generate ATS friendly resume.  
